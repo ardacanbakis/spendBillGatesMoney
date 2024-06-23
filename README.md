@@ -6,7 +6,7 @@ This project is a simple web application that allows users to spend Bill Gates' 
 
 ## Live Demo
 
-You can view the live demo [here](https://ardacanbakis.github.io/spendBillGatesMoney/).
+You can view the live demo [here](https://spend-bill-gates-money-ardacanbakis.vercel.app/).
 
 ## Preview
 ![Preview](https://i.imgur.com/3XaTEhS.png)
