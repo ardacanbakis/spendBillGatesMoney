@@ -6,7 +6,7 @@ import Receipt from "./components/Receipt/receipt.jsx";
 import products from "./components/Products/products.jsx";
 
 const App = () => {
-    const [totalMoney, setTotalMoney] = useState(10000000);
+    const [totalMoney, setTotalMoney] = useState(100000000);
     const [quantities, setQuantities] = useState({});
 
     const handleBuy = (productId, price) => {
