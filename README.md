@@ -16,7 +16,7 @@ You can view the live demo [here](https://spend-bill-gates-money-ardacanbakis.ve
 - HTML
 - CSS
 - JavaScript
-- Reach
+- React
 
 ## How to Use
 
